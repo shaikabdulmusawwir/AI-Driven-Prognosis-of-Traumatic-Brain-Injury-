@@ -1,5 +1,4 @@
 # AI-Driven-Prognosis-of-Traumatic-Brain-Injury-
-# AI-Driven Prognosis of Traumatic Brain Injury using Random Forest
 
 This project leverages machine learning—specifically the Random Forest algorithm—to predict the prognosis of patients suffering from Traumatic Brain Injury (TBI). The model is trained using key clinical features: **Glasgow Coma Scale (GCS)**, **Glasgow Outcome Scale (GOS)**, and **Age**. This approach aims to provide clinicians with a data-driven tool to support critical decision-making during acute care.
 
